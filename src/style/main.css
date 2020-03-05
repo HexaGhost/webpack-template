@@ -1,0 +1,14 @@
+@font-face
+    font-family Heboo
+    src url('../fonts/heboo-bold.woff2') format('woff2'), url('../fonts/heboo-bold.woff') format('woff')
+    font-weight 600
+    font-style normal
+
+body
+    background red
+    font-family Heboo
+
+.image
+    width 500px
+    height 300px
+    background url(../images/image.jpg)
